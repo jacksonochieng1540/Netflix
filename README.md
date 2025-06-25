@@ -2,7 +2,6 @@
 
 A responsive Netflix-inspired web application built with modern web technologies. Browse movies, watch trailers, and enjoy a seamless UI experience.
 
-![Netflix Clone Screenshot](screenshot.png) *Replace with your actual screenshot*
 
 ## 🔥 Features
 - **User Authentication** (Sign up/Login)  
