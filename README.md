@@ -13,7 +13,7 @@ A responsive Netflix-inspired web application built with modern web technologies
 | Category       | Technologies |
 |----------------|-------------|
 | **Frontend**   | Tailwind CSS |
-| **Backend**    | Firebase (Auth, Firestore) |
+| **Backend**    |django(Auth) |
 | **API**        | TMDB (The Movie Database) |
 
 ## 🚀 Quick Start
